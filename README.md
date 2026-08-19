@@ -1,4 +1,4 @@
-# ProCAT
+# ProCAT 123
 
 ProCAT is organized as a three-step pipeline:
 
